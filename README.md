@@ -1,18 +1,20 @@
-# Welcome to your Lovable project
+# Welcome to your ahmaed project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/bf36b661-961f-4f3a-87cf-52d92b0bc5fa
+**URL**: https://github.com/abwsqra529-lab/saqer-fresh-eats-my-version
+
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use your preferred IDE**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bf36b661-961f-4f3a-87cf-52d92b0bc5fa) and start prompting.
+You can edit the project locally using VSCode or any code editor.  
 
-Changes made via Lovable will be committed automatically to this repo.
+All changes can be committed and pushed directly to your GitHub repository.
+
 
 **Use your preferred IDE**
 
@@ -62,12 +64,14 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/bf36b661-961f-4f3a-87cf-52d92b0bc5fa) and click on Share -> Publish.
+Simply open [GitHub Repository](https://github.com/abwsqra529-lab/saqer-fresh-eats-my-version) and click on Share -> Publish.
+
 
 ## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+To connect a domain, navigate to your hosting provider's dashboard and configure it to point to your project.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Read more here: [Guide to your custom domain](https://ahmed-saqer-wellness.wuaze.com)
+
